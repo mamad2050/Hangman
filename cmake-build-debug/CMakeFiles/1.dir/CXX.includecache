@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/Uni/Com Eng/C++/Assignments/Projects/Hangman/main.cpp
+iostream
+-
+cstdlib
+-
+windows.h
+-
+string
+-
+conio.h
+-
+
